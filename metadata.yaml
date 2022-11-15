@@ -1,0 +1,38 @@
+_repo: Letters-of-a-Japanese-schoolboy-Hashimura-Togo_69316
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kirby, Rollin
+    alias: Kirby, Rollin G.
+    birthdate: 1875
+    deathdate: 1952
+    gutenberg_agent_id: '54222'
+    url: http://www.gutenberg.org/2009/agents/54222
+    wikipedia: https://en.wikipedia.org/wiki/Rollin_Kirby
+creator:
+  author:
+    agent_name: Irwin, Wallace
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '1567'
+    url: http://www.gutenberg.org/2009/agents/1567
+    wikipedia: https://en.wikipedia.org/wiki/Wallace_Irwin
+description: ''
+gutenberg_issued: '2022-11-08'
+identifiers:
+  gutenberg: '69316'
+language: en
+pgterms:marc904: https://archive.org/details/lettersofjapanes00irwi
+pgterms:marc905: 20210320102232irwin
+pgterms:marc906: '1909'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Doubleday, Page & Company,1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Letters of a Japanese schoolboy ("Hashimura Togo")
+url: http://www.gutenberg.org/ebooks/69316
