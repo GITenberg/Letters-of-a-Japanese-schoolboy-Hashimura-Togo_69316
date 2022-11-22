@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '54222'
     url: http://www.gutenberg.org/2009/agents/54222
     wikipedia: https://en.wikipedia.org/wiki/Rollin_Kirby
+covers:
+- cover_type: archival
+  image_path: 69316-h/images/cover.jpg
 creator:
   author:
     agent_name: Irwin, Wallace
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1567
     wikipedia: https://en.wikipedia.org/wiki/Wallace_Irwin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69316#Letters-of-a-Japanese-schoolboy-Hashimura-Togo
 gutenberg_issued: '2022-11-08'
 identifiers:
   gutenberg: '69316'
